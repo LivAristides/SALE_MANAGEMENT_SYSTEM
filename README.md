@@ -90,3 +90,9 @@ Esse projeto foi desenvolvido com foco em aprendizado e portifólio, demonstrand
 ✍️ Autora
 
 [@LivAristides](https://github.com/LivAristides)
+
+<img width="1915" height="830" alt="Captura de tela 2026-01-15 210010" src="https://github.com/user-attachments/assets/67f43fad-c2a7-4ba9-9d1a-12de50157f99" />
+<img width="1918" height="834" alt="Captura de tela 2026-01-15 205947" src="https://github.com/user-attachments/assets/a513ebe2-35f7-4b7a-8caf-3459a1100257" />
+<img width="1907" height="831" alt="Captura de tela 2026-01-15 205636" src="https://github.com/user-attachments/assets/e283f83c-3aa5-454b-af0a-4b520414dc61" />
+<img width="1911" height="785" alt="Captura de tela 2026-01-15 205538" src="https://github.com/user-attachments/assets/ed17b832-51d6-4729-96bd-cca146811880" />
+<img width="899" height="687" alt="Captura de tela 2026-01-15 210211" src="https://github.com/user-attachments/assets/fcd5b1f7-aaec-439a-a648-0b8eb310d5e1" />
