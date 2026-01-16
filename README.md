@@ -14,6 +14,7 @@ O projeto simula um ambiente real de vendas, envolvendo clientes, produtos, cate
 - Criar um projeto de portfólio profissional
 ---
 🗂️ Estrutura do Banco de Dados
+
 O banco de dados é composto pelas seguintes tabelas:
 - CLIENT -> cadastro de clientes e controle de status (ativo/inativo)
 - CATEGORY -> categorias dos produtos
@@ -22,6 +23,7 @@ O banco de dados é composto pelas seguintes tabelas:
 - SALE_ITEM -> itens detalhados das vendas
 ---
 🔍 Consultas SQL (SELECT & JOIN)
+
 Foram desenvolvidas diversas consultas utilizando:
 - INNER JOIN
 - LEFT JOIN
@@ -36,11 +38,13 @@ Exemplos de consultas:
 - Média das vendas por método de pagamento
 ---
 👁️ Views
+
 Views criadas para facilitar a visualização de dados importantes:
 - Sales Detail View –> vendas com informações de clientes e produtos
 - Low Stock View –> produtos com estoque abaixo do limite definido
 ---
 ⚙️ Stored Procedures
+
 Procedures implementadas para centralizar regras de negócio:
 - Inserir novas vendas
 - Inserir novas categorias
@@ -50,6 +54,7 @@ Procedures implementadas para centralizar regras de negócio:
 - Validar estoque antes de inserir itens de venda
 ---
 🔔 Triggers
+
 Triggers desenvolvidas para garantir integridade e auditoria:
 - Bloquear vendas para clientes inativos
 - Impedir exclusão de clientes com vendas
@@ -57,6 +62,7 @@ Triggers desenvolvidas para garantir integridade e auditoria:
 - Impedir alteração de preço de produtos já vendidos
 ---
 🛡️ Integridade de Dados e Regras de Negócio
+
 As regras de negócio são aplicadas diretamente no banco de dados através de:
 - Chaves estrangeiras
 - Stored procedures
@@ -77,6 +83,7 @@ Essa abordagem garante consistência dos dados independentemente da aplicação 
 4) Executar os scripts de queries e joins, views, procedures e triggers
 --- 
 💼 Objetivo Profissional
+
 Esse projeto foi desenvolvido com foco em aprendizado e portifólio, demonstrando habilidades práticas em banco de dados, lógica de negócio e desenvolvimento backend.
 
 ---
