@@ -1,6 +1,7 @@
 📘 Sistema de Gestão de Vendas — Banco de Dados (SQL Server)
 ---
 📌 Visão Geral do Projeto
+
 O Sistema de Gestão de Vendas é um projeto de banco de dados desenvolvido em SQL Server, com o objetivo de praticar e demonstrar conceitos de modelagem relacional, consultas SQL, regras de negócio, integridade de dados e lógica no nível do banco de dados.
 O projeto simula um ambiente real de vendas, envolvendo clientes, produtos, categorias, vendas e itens de venda, focando na implementação de regras diretamente no banco, sem dependência de aplicação.
 
