@@ -88,4 +88,5 @@ Esse projeto foi desenvolvido com foco em aprendizado e portifólio, demonstrand
 
 ---
 ✍️ Autora
+
 [@LivAristides](https://github.com/LivAristides)
